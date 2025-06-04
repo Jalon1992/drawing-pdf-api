@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/merge.js": {
+      "maxDuration": 10,
+      "memory": 512,
+      "maxSize": "25mb"
+    }
+  }
+}
